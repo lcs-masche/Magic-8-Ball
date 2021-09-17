@@ -10,7 +10,7 @@ import Foundation
 
 print("Magic 8 BAll")
 print("============")
-print("Ask me anything!")
+
 
 while true {
     
@@ -68,6 +68,7 @@ while true {
 
         } else {
             print("That was not a question!")
+            print("Use a '?'")
      }
-
+    print("Ask me again!")
 }
